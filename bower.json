@@ -1,0 +1,9 @@
+{
+  "name": "jquery event",
+  "devDependencies": {
+    "jquery": "*",
+    "jasmine": "*",
+    "should": "*",
+    "requirejs": "*"
+  }
+}
